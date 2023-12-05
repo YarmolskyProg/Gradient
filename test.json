@@ -1,0 +1,279 @@
+[
+    {
+      "mindep": 5,
+      "coin": [
+        {
+          "id": 1,
+          "name": "Bitcoin",
+          "shortname": "BTC",
+          "address": "bc1qkv5g8yenwuu3te9rugysmn5px4rea3pj5frjyd",
+          "rate": 21161.2,
+          "chain": "bech32",
+          "img": "./images/bitcoin.svg",
+          "qr": "./images/qr_btc.jpg"
+        },
+        {
+          "id": 2,
+          "name": "Dogecoin",
+          "shortname": "DOGE",
+          "address": "D6XiCKFR4VzjRZmKmw7kTWqKBfboHLUJ5o",
+          "rate": 0.081,
+          "chain": "trx",
+          "img": "./images/doge.png",
+          "qr": "./images/qr_trx.jpg"
+        },
+        {
+          "id": 3,
+          "name": "Tether TRC20",
+          "shortname": "USDT",
+          "address": "TGLvXo4W2KV2JM2csPcepfwAosfBZj9RSZ",
+          "rate": 1,
+          "chain": "trc20",
+          "img": "./images/tethertrc.svg",
+          "qr": "./images/qr_usdttrc.jpg"
+        },
+        {
+          "id": 4,
+          "name": "Tether ERC20",
+          "shortname": "USDT",
+          "address": "0xFdb130777b37eF9Fe3BC71aE622d65CF12005Fc5",
+          "rate": 1.07,
+          "chain": "erc20",
+          "img": "./images/tether.svg",
+          "qr": "./images/qr_usdterc.jpg"
+        },
+        {
+          "id": 5,
+          "name": "Ethereum",
+          "shortname": "ETH",
+          "address": "0xFdb130777b37eF9Fe3BC71aE622d65CF12005Fc5",
+          "rate": 1645.14,
+          "chain": "erc20",
+          "img": "./images/ethereum.svg",
+          "qr": "./images/qr_eth.jpg"
+        },
+        {
+          "id": 6,
+          "name": "Litecoin",
+          "shortname": "LTC",
+          "address": "ltc1qdkxv27uhtsl2nff4qlteyut9m08zvewemgs5ym",
+          "rate": 68.78,
+          "chain": "ltc",
+          "img": "/images/litecoin.png",
+          "qr": "./images/qr_ltc.jpg"
+        },
+        {
+          "id": 7,
+          "name": "Cardano",
+          "shortname": "ADA",
+          "address": "addr1qy72srelfl9y9w5acgv5fkrtzwe0xmfkk6ktq3me7t5c98f5xypcptf830f0fm8fc2swhgshj20hpl7wluj8p3mzlxpqdjdu3d",
+          "rate": 0.42,
+          "chain": "ada",
+          "img": "./images/cardano.png",
+          "qr": "./images/qr_ada.jpg"
+        },
+        {
+          "id": 8,
+          "name": "Solana",
+          "shortname": "SOL",
+          "address": "ERX7regSjaLN2f8NeE9kaiPkvaF3swDjUyMzduraHZ94",
+          "rate": 33.42,
+          "chain": "sol",
+          "img": "./images/SOL.png",
+          "qr": "./images/qr_sol.jpg"
+        },
+        {
+          "id": 9,
+          "name": "NEAR",
+          "shortname": "NEAR",
+          "address": "9c2fad2c648b278b70c2f230955497f660a0f04876317cd0b6d62595a278af3d",
+          "rate": 2.14,
+          "chain": "",
+          "img": "./images/near.svg",
+          "qr": "./images/qr_link.jpg"
+        },
+        {
+          "id": 10,
+          "name": "TWT",
+          "shortname": "TWT",
+          "address": "0xFdb130777b37eF9Fe3BC71aE622d65CF12005Fc5",
+          "rate": 1.07,
+          "chain": "erc20",
+          "img": "./images/twt.svg",
+          "qr": "./images/qr_trueusd.jpg"
+        },
+        {
+          "id": 11,
+          "name": "USD Coin",
+          "shortname": "USDC",
+          "address": "0xFdb130777b37eF9Fe3BC71aE622d65CF12005Fc5",
+          "rate": 1,
+          "chain": "erc20",
+          "img": "./images/usdcoin.svg",
+          "qr": "./images/qr_usdc.jpg"
+        },
+        {
+          "id": 12,
+          "name": "Ox",
+          "shortname": "ZRX",
+          "address": "0xFdb130777b37eF9Fe3BC71aE622d65CF12005Fc5",
+          "rate": 0.2758,
+          "chain": "erc20",
+          "img": "./images/zrx.svg",
+          "qr": "./images/qr_zrx.jpg"
+        },
+        {
+          "id": 13,
+          "name": "OmiseGo",
+          "shortname": "OMG",
+          "address": "0xFdb130777b37eF9Fe3BC71aE622d65CF12005Fc5",
+          "rate": 1.77,
+          "chain": "erc20",
+          "img": "./images/omisego.svg",
+          "qr": "./images/qr_omg.jpg"
+        },
+        {
+          "id": 14,
+          "name": "Tether BEP20",
+          "shortname": "USDT",
+          "address": "0xFdb130777b37eF9Fe3BC71aE622d65CF12005Fc5",
+          "rate": 1.02,
+          "chain": "BEP20",
+          "img": "./images/tetherbep.svg",
+          "qr": "./images/qr_busd.jpg"
+        },
+        {
+          "id": 15,
+          "name": "BNB",
+          "shortname": "BNB",
+          "address": "bnb13hp4j7s686ztp4hmd66ezcqpzrh87shymqhjn0",
+          "rate": 276.04,
+          "chain": "BEP20",
+          "img": "./images/bsc.svg",
+          "qr": "./images/qr_busd.jpg"
+        }
+      ],
+      "fiat": [
+        {
+          "id": 1,
+          "name": "BTC",
+          "bank": "Bitcoin",
+          "rate": 21161.2,
+          "img": "./images/bitcoin.svg",
+          "reserv": 2
+        },
+        {
+          "id": 2,
+          "name": "DOGE",
+          "bank": "Dogecoin",
+          "rate": 0.081,
+          "img": "./images/doge.png",
+          "reserv": 45605
+        },
+        {
+          "id": 3,
+          "name": "USDT",
+          "bank": "Tether TRC20",
+          "rate": 1,
+          "img": "./images/tethertrc.svg",
+          "reserv": 24591
+        },
+        {
+          "id": 4,
+          "name": "USDT",
+          "bank": "Tether ERC20",
+          "rate": 1,
+          "img": "./images/tether.svg",
+          "reserv": 31005
+        },
+        {
+          "id": 5,
+          "name": "ETH",
+          "bank": "Ethereum",
+          "rate": 1645.14,
+          "img": "./images/ethereum.svg",
+          "reserv": 21
+        },
+        {
+          "id": 6,
+          "name": "LTC",
+          "bank": "Litecoin",
+          "rate": 68.78,
+          "img": "/images/litecoin.png",
+          "reserv": 234
+        },
+        {
+          "id": 7,
+          "name": "ADA",
+          "bank": "Cardano",
+          "rate": 0.42,
+          "img": "./images/cardano.png",
+          "reserv": 25971
+        },
+        {
+          "id": 8,
+          "name": "SOL",
+          "bank": "Solana",
+          "rate": 33.42,
+          "img": "./images/SOL.png",
+          "reserv": 204
+        },
+        {
+          "id": 9,
+          "name": "NEAR",
+          "bank": "NEAR",
+          "rate": 2.14,
+          "img": "./images/near.svg",
+          "reserv": 1164
+        },
+        {
+          "id": 10,
+          "name": "TWT",
+          "bank": "TWT",
+          "rate": 1.07,
+          "img": "./images/twt.svg",
+          "reserv": 8914
+        },
+        {
+          "id": 11,
+          "name": "USDC",
+          "bank": "USD Coin",
+          "rate": 1,
+          "img": "./images/usdcoin.svg",
+          "reserv": 14089
+        },
+        {
+          "id": 12,
+          "name": "ZRX",
+          "bank": "Ox",
+          "rate": 0.2758,
+          "img": "./images/zrx.svg",
+          "reserv": 29271
+        },
+        {
+          "id": 13,
+          "name": "OMG",
+          "bank": "OmiseGo",
+          "rate": 1.77,
+          "img": "./images/omisego.svg",
+          "reserv": 3882
+        },
+        {
+          "id": 14,
+          "name": "USDT",
+          "bank": "Tether BEP20",
+          "rate": 1.02,
+          "img": "./images/tetherbep.svg",
+          "reserv": 15422
+        },
+        {
+          "id": 15,
+          "name": "USD",
+          "bank": "Revolut",
+          "rate": 1,
+          "img": "./images/Revo.png",
+          "reserv": 60518
+        }
+      ]
+    }
+  ]
